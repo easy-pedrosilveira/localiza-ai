@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      screens: {
+        tablet: "768px",
+        desktop: "1024px",
+      },
       boxShadow: {
         "button-shadow":
           "inset 0px -4px 0px 0px #072AC8, inset 0px 4px 0px 0px #6998EFCC",

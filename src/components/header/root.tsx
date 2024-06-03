@@ -1,4 +1,3 @@
-import { twMerge } from 'tailwind-merge'
 import { InnerContainer, ItemsOfHeader } from "@/components";
 
 export function Header() {
